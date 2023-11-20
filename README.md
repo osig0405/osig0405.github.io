@@ -9,25 +9,25 @@
 <body>
     <header>
         <h1>總統大選</h1>
-        <p>個人介绍</p>
+        <p>人選介绍</p>
     </header>
     
     <nav>
         <ul>
-            <li><a href="#about">關于我</a></li>
+            <li><a href="#about">關於候選人</a></li>
             <li><a href="#portfolio">作品集</a></li>
             <li><a href="#contact">聯系我</a></li>
         </ul>
     </nav>
     
     <section id="about">
-        <h2>關於我</h2>
-        <p>在這里寫一些關於你自己的介绍。</p>
+        <h2>關於人選</h2>
+        <p>在這里寫一些關於候選人的介绍。</p>
     </section>
     
     <section id="portfolio">
         <h2>作品集</h2>
-        <p>展示你的作品，可以包括圖片、项目描述等。</p>
+        <p>展示候選人的作品，可以包括圖片、项目描述等。</p>
     </section>
     
 
